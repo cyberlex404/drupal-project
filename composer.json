@@ -1,12 +1,14 @@
 {
-    "name": "drupal-composer/drupal-project",
+    "name": "cyberlex404/drupal-project",
     "description": "Project template for Drupal 8 projects with composer",
     "type": "project",
     "license": "GPL-2.0+",
     "authors": [
         {
-            "name": "",
-            "role": ""
+            "name": "Lex Misiuro",
+            "email": "cyberlex404@yandex.com",
+            "homepage": "http://cyberlex404.com",
+            "role": "Developer"
         }
     ],
     "repositories": [
@@ -21,6 +23,7 @@
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/admin_toolbar": "^1.21",
         "drupal/bootstrap": "^3.7",
+        "drupal/bootstrap_layouts": "^5.0",
         "drupal/console": "^1.0.2",
         "drupal/core": "~8.4",
         "drupal/ctools": "^3.0",
